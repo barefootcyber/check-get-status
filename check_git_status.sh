@@ -9,6 +9,6 @@ if [[ $status =~ "On branch latestcode" && $status =~ "Your branch is up to date
 else
     echo "latestcode needs updating. Updating..."
     git add .
-    git commit -m "barefoot from cordei success 3"
+    git commit -m "codebuild test 1"
     git push origin latestcode
 fi

@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Get inside BarefootCyber-Wazuh-Docker
-cd BarefootCyber-Wazuh-Docker
-
 # Run git status command
 status=$(git status)
 
